@@ -15,7 +15,7 @@ Docker 20.10.17
 # Шаблон наполнения env-файла
 
 ```
-SECRET_KEY = 'j&f%565288kfghhtyn^##a1)ilz@4sl)=rq&agdol^##zgl9(vs'
+SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 DB_ENGINE=django.db.backends.postgresql
 DB_NAME=postgres
 POSTGRES_USER=postgres
